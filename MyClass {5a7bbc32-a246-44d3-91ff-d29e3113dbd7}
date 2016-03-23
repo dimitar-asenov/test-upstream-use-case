@@ -1,0 +1,17 @@
+0 Class {5a7bbc32-a246-44d3-91ff-d29e3113dbd7} {73435acf-9282-4d76-87d0-0640c607d1c5}
+	_ext_Position_x Integer {f84f7f82-06c7-4c02-88fb-80391e546bcf} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}. I_0
+	_ext_Position_y Integer {fd273f93-224e-4b0c-bbfc-1b67001fd6e5} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}. I_0
+	annotations StatementItemList {c79c4268-c919-4079-89ed-a307498cf490} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	baseClasses TypedListOfExpression {f43d1829-43cd-4258-8bcc-c64481e28126} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	cKind Integer {4d85a072-94e3-424f-9063-e44a925dca52} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}. I_0
+	classes TypedListOfClass {15398148-5502-4994-8bb7-256acc1e0203} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	enumerators TypedListOfEnumerator {b887b11f-799d-49cd-b012-ea7f9e15293f} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	fields TypedListOfField {4a788b17-3bfc-407c-a5b9-25647794b709} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	friends TypedListOfDeclaration {e17de881-8ccd-45bc-8890-05f4c341c7e7} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	metaCalls TypedListOfExpression {7e8b0aab-3ea4-45c1-9d2e-2655a1356f22} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	methods TypedListOfMethod {81f6b60c-9f9f-44ad-b596-916b5f3e4b58} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+		0 persistencenewunit {74133a61-06a3-4303-9726-ad5ab2ce573a} {81f6b60c-9f9f-44ad-b596-916b5f3e4b58}. S_MyClass/foo {74133a61-06a3-4303-9726-ad5ab2ce573a}
+	modifiers Modifier {08cd055b-b2a0-4159-abe7-e4195fb39f07} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}. I_0
+	name NameText {8aa8c351-c77b-410f-9215-4df1f76c1f1a} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}. S_MyClass
+	subDeclarations TypedListOfDeclaration {7b0a7926-a7b7-470c-ab18-05a3fcd4413f} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	typeArguments TypedListOfFormalTypeArgument {f126f404-ae78-47f8-aec2-90bf38bacee5} {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}

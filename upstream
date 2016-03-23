@@ -1,0 +1,13 @@
+upstream Project {fcc95a09-a0ed-4a44-b9ef-ce2e35834128} {00000000-0000-0000-0000-000000000000}
+	annotations StatementItemList {73de9a49-7465-4b74-8a25-6b47736da5dc} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	classes TypedListOfClass {73435acf-9282-4d76-87d0-0640c607d1c5} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+		0 persistencenewunit {5a7bbc32-a246-44d3-91ff-d29e3113dbd7} {73435acf-9282-4d76-87d0-0640c607d1c5}. S_MyClass {5a7bbc32-a246-44d3-91ff-d29e3113dbd7}
+	fields TypedListOfField {93e6d415-7bd4-438d-93f0-d30631bc37c8} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	libraries TypedListOfUsedLibrary {918bdbcc-1154-4694-a0a0-d2a563603401} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	metaCalls TypedListOfExpression {c80ee944-a086-4fe2-b3ca-51182d2dcb94} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	methods TypedListOfMethod {8785a1ab-4b58-4ef6-b82b-38ecb63a9a46} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	modifiers Modifier {f2e740c9-c588-4127-ab81-9bad7215d5b7} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}. I_0
+	modules TypedListOfModule {82f09507-6a4e-4b8c-90ad-a22ac2f51eff} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	name NameText {b477a395-0890-460f-9a50-eee2536a1e36} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}. S_Test
+	projects TypedListOfProject {6dffef6c-442f-41ac-ad8c-857abfed6a95} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
+	subDeclarations TypedListOfDeclaration {642b9b04-27ab-42c9-a78e-c32a1fae0fd3} {fcc95a09-a0ed-4a44-b9ef-ce2e35834128}
