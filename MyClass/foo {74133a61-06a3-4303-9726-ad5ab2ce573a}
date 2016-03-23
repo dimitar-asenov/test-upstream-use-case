@@ -43,8 +43,8 @@
 			thenBranch StatementItemList {0b7d761b-97f0-4e0c-be5f-991c429bcf2c} {295b94a0-4902-47e7-a69c-d0df1d4c2b15}
 				0 ReturnStatement {fc07cb42-1b61-4c4c-9cf4-977c20a6f8b0} {0b7d761b-97f0-4e0c-be5f-991c429bcf2c}
 					values TypedListOfExpression {5840a937-5170-4a43-99f3-6cf03ca1510b} {fc07cb42-1b61-4c4c-9cf4-977c20a6f8b0}
-						0 IntegerLiteral {31fde9b6-a303-4b0a-a41f-60afcf0de874} {5840a937-5170-4a43-99f3-6cf03ca1510b}
-							value Text {2cccff13-c736-4478-bc23-ce0c7cf1923a} {31fde9b6-a303-4b0a-a41f-60afcf0de874}. S_0
+						0 IntegerLiteral {e6ec7980-8a4f-4607-ab9f-91c9d4c6d7d4} {5840a937-5170-4a43-99f3-6cf03ca1510b}
+							value Text {1cd13920-d97f-4e6a-9f94-6737db42ab50} {e6ec7980-8a4f-4607-ab9f-91c9d4c6d7d4}. S_1
 		1 ReturnStatement {00cc042a-bcb5-45b7-990c-07b1b84f990a} {8caf80fa-59d6-4375-9545-a18159ade96c}
 			values TypedListOfExpression {f9835121-58ec-435a-9651-62dcbaabeefd} {00cc042a-bcb5-45b7-990c-07b1b84f990a}
 				0 BinaryOperation {bff15b79-de73-48e8-ab60-a60ddca36a78} {f9835121-58ec-435a-9651-62dcbaabeefd}
